@@ -1,3 +1,4 @@
+
 /**
  * AJFTPE - Main JavaScript File
  * Association environnementale de Tombouctou
